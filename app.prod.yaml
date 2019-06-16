@@ -1,0 +1,23 @@
+runtime: nodejs10
+env: standard
+
+automatic_scaling:
+  target_throughput_utilization: 0.85
+  max_instances: 2
+  #min_instances: 1
+  #min_idle_instances: 1
+
+env_variables:
+  # If you are using the App Engine Memcache service (currently in alpha),
+  # uncomment this section and comment out the other Memcache variables.
+  #USE_GAE_MEMCACHE: 1
+
+  #MEMCACHE_URL: redis-17449.c11.us-east-1-2.ec2.cloud.redislabs.com:17449
+
+  # If you are using a Memcached server with SASL authentiation enabled,
+  # fill in these values with your username and password.
+
+  #MEMCACHE_USERNAME: your-memcache-username
+  #MEMCACHE_PASSWORD: your-memcache-password
+  CLOUD_PROJECT: bnbcrate1
+  #GOOGLE_APPLICATION_CREDENTIALS: gcloud-prod.json

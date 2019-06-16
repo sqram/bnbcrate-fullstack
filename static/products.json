@@ -1,0 +1,8 @@
+[
+  {
+    "id": 1,
+    "name": "Basic",
+    "price": 6.99,
+    "items": [ "1 Shampoo", "1 Conditioner", "1 Soap", "1 Shower Cap" ]      
+  } 
+]  

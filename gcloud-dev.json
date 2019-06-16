@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "bnbcrate-dev",
+  "private_key_id": "87d853c98d958aebb047a52864d0e4c152ed4954",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCj/evZDYz41CjU\nBoeGue/ZtLjK6/Z9iHeuP4s2ZsegnI0C895ch7hUFIjb0eRfErC2QGXGkLiGRNMO\ncxBljc/DFk+oJbSoK3pTy9TQxPmRZl4Ab1FAOFNWIPcwhpTgcbvPLzZppGlXpJsA\nadK3FVISDdcPAStr1Qc9vRv1oCLoRPJF5kDou8CWsJHsqIJ50bN/vLqFGspJ6Vgc\nNotdgUqwzQTDXmfxkGdYfTLVYRVdJw7IfMxW+9ENlVW5p43IGXwEoF7Hu5T0h7Gt\nzsHcNpNYC1/pr9uKit4wUjTZI1Hafj7O9N3xg7bcCryn918HqXADYnwO88eAiiR3\nAmRZea1pAgMBAAECggEABNSlfmLOTMQfIcPBeT//5zdSHDQgMilzcRARHzye08XY\nx4X8flhHHz7tmyAPLJfF2dCCzvsTXG0plGriSEOJo7MEDK1zqWKCe3ZtIeszeMt9\nqGCfEZe3KLnW3jiQqR3gjOVUon8D1V+Va0kyuk7n+H0s4RXFPCttx61K5gzeCl51\nb1AcYSr0LbuDmtkuHtFJSUw+UOKjHuWTLffsR/W0puD1tMxRx6b3xK1KI9fexEkc\nvpulsXfGWOgsJGqEOA6FUZkWRR40eIkkoGrLTu5HwFHmJBGM3TaoGj6VFh6tDdtE\nr2JZ3jwhgWVQaP+1lpS0zB+AlVGrqGUESq0lZesvywKBgQDgjm1EP/ovurN47z6k\n18BH/C09EyQ5mmSZ6PuOwby3fnaO8zLCNQ3SNv3OLErP6nkmiNURodmmHIFXD30l\nkwke8qmUM1M4oR1dtjEZjN4qBAcoiO+mF6tzoguK4pfojuk98M80rEWqW2He++73\nydJYp2ztGrjznNiXX8tiuT8R4wKBgQC69HdewJTUuuCbwn9rMUwV1oDBY8fA81JX\nfUdJRYIOpMOE5XNgyK1b9SHtwnroAT/FrM5YOxJpcT3Cg+McvlkMoKmye/HdDnGq\njWhAtpGsjBb8TikLYID1E/yf7KFmtH+l4NxcnJChv98P45RtCa+oDqzcnqn01Xs5\nMMAMBuw1QwKBgQDaHH01VY8E3SuFw5vtMUKqqN6n+/erm7Mra4kr2DIdaNBvePlM\neYu7K37Ky2q/GNgj/bQ3NCXbmsRmc7zyyiaJ0Nm2AURMNPH5HAYE8za3SMJLNPbR\nNRxrbHIZrI4wbN9QMp6QYuQn3CrsE3jBZV7SjYzXoKUUurwGDB3Y/mWsUQKBgA7D\nNRXXUSlHJGtIPXWCbAahbINY1LIoxIzCCLoBchaj7gh1cdnnnsDPJ4G1xKzDRHzg\ne16+M2L+HSlZ7robUb7MhPniDaQt+s3D4sKRaAle+oWrylPqp+QyUtVyAwCwKhA4\nJE5v0n/jPcLsbpD5ndRAbGfzY2pA3T0T22ZXuZkvAoGBAM7vX+34sIE3xwMjfLaq\nntvgkWiRsPOAX3XQsJ2NrrzOnXPh09wkTloi4muxp+dDztxChqrZgC7njdsaOD/i\nIhXx8tqstQ4WV+m5hZ/Jh9ZQkU6Cn41M5V8p/NX5xvzTzPRSrS0ATlgrJ/M/HCEy\nIfGv8ds5SPQ95Bt524V+zbj+\n-----END PRIVATE KEY-----\n",
+  "client_email": "bnbcrate@bnbcrate-dev.iam.gserviceaccount.com",
+  "client_id": "117955091899825679340",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/bnbcrate%40bnbcrate-dev.iam.gserviceaccount.com"
+}
